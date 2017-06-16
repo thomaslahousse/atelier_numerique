@@ -1580,8 +1580,14 @@ body {
 	font-weight: 800;
 	line-height: 1.25;
 	letter-spacing: 0.08em;
-	margin: 0;
-	padding: 0;
+	/* ---- texte original ---- */
+	/*margin: 0;*/
+	/*padding: 0;*/
+	/* ----- modifier  en dessous --- */
+	margin: -200px;
+	padding: 200px;
+	/* ---- modif ajoutée --- */
+	/* ---- fin modif ---- */
 	text-transform: uppercase;
 }
 
